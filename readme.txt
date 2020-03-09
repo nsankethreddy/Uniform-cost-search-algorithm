@@ -1,5 +1,4 @@
 1) Name - Monali Milind Mhetre
-   UTA ID - 1001600134
 
 2) Programming language - Python 2.7
 
